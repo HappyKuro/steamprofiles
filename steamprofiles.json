@@ -487,6 +487,11 @@
       "steamid64": "76561199066986123",
       "note": "cheater",
       "addedAt": 1767023416947
+    },
+    {
+      "steamid64": "76561199798261881",
+      "note": "suspicious",
+      "addedAt": 1767023640332
     }
   ]
 }
